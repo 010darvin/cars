@@ -71,7 +71,7 @@ Citizen.CreateThread(function(
   AddTextEntry('0xD926E075', 'BMW Racer')
   AddTextEntry('0xF32DE721', 'BMW Exhaust 1')
   AddTextEntry('0xF2175F79', 'BMW Mirrors')
-  AddTextEntry('0xFF2E68B2', 'S 1000 RR')
+  AddTextEntry('0xFF2E68B2', 'S 1000 RR'160 kmh )
   AddTextEntry('0x04214BDD', 'Multistrada exh 1')
   AddTextEntry('0x790FDFFE', 'Remove front M gaurd')
   AddTextEntry('0x6400C100', 'Ducati')
