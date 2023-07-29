@@ -106,5 +106,7 @@ Citizen.CreateThread(function(
   AddTextEntry('0xE52EBF00', 'Rc Chain Gold')
   AddTextEntry('0xF2F9EB95', 'Rc Racer Brake 1')
   AddTextEntry('0x6C968670', 'Honda Civic Type R(FK2)')
-
-end)
+  AddTextEntry('0x6C968670', "MQ-1 | US-UCAV [ADD-ON | FÜNF-M] 1.00
+  AddTextEntry('0X6C968670, " Urchin 2 Bulk Carrier [Add-On / FiveM] 1.0
+  AddTextEntry('0X6C968670, "USS Forrestal [Add-On / FiveM] 1.0
+						
