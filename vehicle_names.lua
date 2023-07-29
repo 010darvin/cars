@@ -7,9 +7,7 @@ Citizen.CreateThread(function(
   AddTextEntry('0x65E5302C', 'ZX10 R')
   AddTextEntry('0x93E51687', 'Chain Racer')
   AddTextEntry('0xAEFD305D', 'Remove Mirrors')
-  AddTextEntry('0xB1CF5619', 'kawasaki Ninja')
-  AddTextEntry('0xC2AAF50E', 'Zx Exhaust 2')
-  AddTextEntry('0xD0841904', 'Race mgaurd')
+  AddTextEntry('0xB1CF5619', 'kawasaki Ninja'))
   AddTextEntry('0xD17E92B9', 'Zx Exhaust 1')
   AddTextEntry('0xD6833BDC', 'ZX10 Racer')
   AddTextEntry('0xE48B2698', 'Remove plate holder')
@@ -106,7 +104,43 @@ Citizen.CreateThread(function(
   AddTextEntry('0xE52EBF00', 'Rc Chain Gold')
   AddTextEntry('0xF2F9EB95', 'Rc Racer Brake 1')
   AddTextEntry('0x6C968670', 'Honda Civic Type R(FK2)')
-  AddTextEntry('0x6C968670', "MQ-1 | US-UCAV [ADD-ON | FÜNF-M] 1.00
-  AddTextEntry('0X6C968670, " Urchin 2 Bulk Carrier [Add-On / FiveM] 1.0
-  AddTextEntry('0X6C968670, "USS Forrestal [Add-On / FiveM] 1.0
-						
+  AddTextEntry('0x6C968670', "MQ-1 | US-UCAV 
+  AddTextEntry('0X6C968670, " Urchin 2 Bulk Carrier 
+  AddTextEntry('0X6C968670, "USS Forrestal 
+  AddTextEntry('0X6C968670, "Merlin 
+  AddTextEntry('0X6C968670, "Schlepper PR-489
+  AddTextEntry('0X6C968670, "2023 Ferrari SF-23 
+  AddTextEntry('0X6C968670, "Ferrari 812 Superfast Leggera 
+  AddTextEntry('0X6C968670, "2015 Ferrari LaFerrari
+  AddTextEntry('0X6C968670, "2009 Ferrari 458 Italia Liberty Walk
+  AddTextEntry('0X6C968670, "2015 Koenigsegg Agera One:1												
+  AddTextEntry('0X6C968670, "2014 Mclaren P1
+  AddTextEntry('0X6C968670, "1954 Mercedes-Benz 300 SL
+  AddTextEntry('0X6C968670, "2013 Lamborghini Veneno															
+  AddTextEntry('0X6C968670, "2015 Lamborghini Huracan
+  AddTextEntry('0X6C968670, "1987 Ferrari F40																	
+  AddTextEntry('0X6C968670, "2016 Lamborghini Centenario LP770-4
+  AddTextEntry('0X6C968670, "2021 BMW 5er 530D
+  AddTextEntry('0X6C968670, "Mercedes-Benz Actros MP4 4x2																				
+  AddTextEntry('0X6C968670, "2018 Volkswagen Amarok V6 
+  AddTextEntry('0X6C968670, "2020 Mercedes AMG GLE53 Coupé
+  AddTextEntry('0X6C968670, "2020 BMW Z4 M40i
+  AddTextEntry('0X6C968670, " Kenworth T660
+  AddTextEntry('0X6C968670, "2020 Mercedes-Benz EQC400
+  AddTextEntry('0X6C968670, "2019 AMG GT63S
+  AddTextEntry('0X6C968670, "Audi RS7 Sportback 
+  AddTextEntry('0X6C968670, "2019 Audi A6 55 TFS
+  AddTextEntry('0X6C968670, "BMW X7 Concept
+  AddTextEntry('0X6C968670, "2017 Mercedes-AMG C63 S
+  AddTextEntry('0X6C968670, "BMW 745Le x Drive
+  AddTextEntry('0X6C968670, "Audi S5 cope 
+  AddTextEntry('0X6C968670, "2016 Subaru WRX STI
+  AddTextEntry('0X6C968670, "Mercedes-Benz E-Klasse AMG 2023
+  AddTextEntry('0X6C968670, "2021 BMW M4 G82 Kith
+  AddTextEntry('0X6C968670, "Honda Xre 300 2020
+  AddTextEntry('0X6C968670, "Scania 770ST Patrick VD Hoeven
+  AddTextEntry('0X6C968670, "Mercedes-Benz Vito 2016
+  AddTextEntry('0X6C968670, "Volkswagen Touran 2016
+																																							
+																																							
+																							
