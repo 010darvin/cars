@@ -147,4 +147,184 @@ Citizen.CreateThread(function(
   AddTextEntry('0X6C968670, "CIWS Anti Air Defense 1.0
   AddTextEntry('0X6C968670, " B-2A Spirit Tarnkappenbomber
   AddTextEntry('0X6C968670, "F/A-18F Super Hornet 
-																																													
+  AddTextEntry('0X6C968670, "BMW M6 F13 Shadowline 0.6																																										
+  AddTextEntry('0X6C968670, "2021 BMW X7 0.1
+  AddTextEntry('0X6C968670, "BMW 750i (e38)		
+  AddTextEntry('0X6C968670, "Audi RS5 2011 0.1
+  AddTextEntry('0X6C968670, "Mercedes-Benz SLS AMG
+  AddTextEntry('0X6C968670, "Hummer H6
+  AddTextEntry('0X6C968670, "2013 Mercedes-Benz E63 AMG
+  AddTextEntry('0X6C968670, "Bugatti Chiron | Hot Pursuit Police
+  AddTextEntry('0X6C968670, "McLaren MP4 12C | Hot Pursuit Police
+  AddTextEntry('0X6C968670, "Ford Focus RS 2017
+  AddTextEntry('0X6C968670, "Mercedes-Benz AMG GT R 2017
+  AddTextEntry('0X6C968670, "BMW M3 E92 2008 
+  AddTextEntry('0X6C968670, "Hydramax AERV
+  AddTextEntry('0X6C968670, "McLaren P1 | Hot Pursuit Police 
+  AddTextEntry('0X6C968670, "Lamborghini Aventador | Hot Pursuit Police
+  AddTextEntry('0X6C968670, "Maserati Levante
+  AddTextEntry('0X6C968670, "Lamborghini Reventon AUTOVISTA [Replace
+  AddTextEntry('0X6C968670, "Volkswagen Golf VII R 2017
+  AddTextEntry('0X6C968670, "EC-135 Gendamerie 
+  AddTextEntry('0X6C968670, "Yamaha MT-07 / FZ-07
+  AddTextEntry('0X6C968670, "Lamborghini Centenario | Hot Pursuit Police 
+  AddTextEntry('0X6C968670, " Audi TTS 2015
+  AddTextEntry('0X6C968670, "2015 BMW F82 M4
+  AddTextEntry('0X6C968670, "BMW M4 GTS Liberty Walk 
+  AddTextEntry('0X6C968670, "2018 BMW M5 F90
+  AddTextEntry('0X6C968670, "Mercedes-Benz S63 AMG Cabriolet
+  AddTextEntry('0X6C968670, "BMW M5 E60
+  AddTextEntry('0X6C968670, "Mercedes-Benz CLS 6.3 AMG 
+  AddTextEntry('0X6C968670, "2012 Bentley Continental GT
+  AddTextEntry('0X6C968670, "BMW X6M F16 Breitbau
+  AddTextEntry('0X6C968670, "BMW M3 E36 V8 Biturbo
+  AddTextEntry('0X6C968670, "BMW M760i 2017 
+  AddTextEntry('0X6C968670, "BMW M4 CS 2018
+  AddTextEntry('0X6C968670, "Mercedes-Benz AMG GT63 2018 
+  AddTextEntry('0X6C968670, "Ferrari 812 Superfast 2018 
+  AddTextEntry('0X6C968670, "Ferrari LaFerrari Aperta 2017
+  AddTextEntry('0X6C968670, "Ferrari F8 Spider 2020
+  AddTextEntry('0X6C968670, "Audi RS5 Coupe 2018
+  AddTextEntry('0X6C968670, "Ferrari Roma 2020
+  AddTextEntry('0X6C968670, "2015 Ferrari LaFerrari 
+  AddTextEntry('0X6C968670, "Ferrari 458 Italia AUTOVISTA
+  AddTextEntry('0X6C968670, "2013 Ferrari F12 Berlinetta
+  AddTextEntry('0X6C968670, "2020 Ferrari F8 Tributo
+  AddTextEntry('0X6C968670, "2020 Ferrari SF90 Stradale
+  AddTextEntry('0X6C968670, "Mercedes-Benz CLK GTR 1998
+  AddTextEntry('0X6C968670, "2011 Ferrari 599 GTO
+  AddTextEntry('0X6C968670, "2020 Koenigsegg Jesko
+  AddTextEntry('0X6C968670, "2010 Aston Martin One-77 
+  AddTextEntry('0X6C968670, "2016 Aston Martin Vantage GT12
+  AddTextEntry('0X6C968670, "Ferrari Enzo & Gemballa MIG-U1																																																																																														
+  AddTextEntry('0X6C968670, "2016 Ferrari 488 GTB 
+  AddTextEntry('0X6C968670, "Ferrari FXX-K Hybrid Hypercar
+  AddTextEntry('0X6C968670, "1987 Ferrari F40
+  AddTextEntry('0X6C968670, "2016 Ferrari F12 TDF
+  AddTextEntry('0X6C968670, "2018 Ferrari 812 Superfast
+  AddTextEntry('0X6C968670, "2019 Ferrari 488 Pista
+  AddTextEntry('0X6C968670, "Ferrari 488 Mansory SIRACUSA 4XX
+  AddTextEntry('0X6C968670, "Ferrari 458 Speciale 2015
+  AddTextEntry('0X6C968670, "2020 Ferrari Monza SP2
+  AddTextEntry('0X6C968670, "2017 Ferrari GTC4 Lusso
+  AddTextEntry('0X6C968670, "Ferrari 488 Pista 2019
+  AddTextEntry('0X6C968670, "2020 Ferrari Roma
+  AddTextEntry('0X6C968670, "2015 Ferrari LaFerrari 
+  AddTextEntry('0X6C968670, "Ferrari 599XX Evoluzione 2011
+  AddTextEntry('0X6C968670, "2010 Ferrari F10
+  AddTextEntry('0X6C968670, "Ferrari FF 2012
+  AddTextEntry('0X6C968670, "2017 Bugatti Chiron
+  AddTextEntry('0X6C968670, "2019 Bugatti Chiron Sport
+  AddTextEntry('0X6C968670, "Bugatti Divo 2019
+  AddTextEntry('0X6C968670, "Renault Master L2H2 Van 2017
+  AddTextEntry('0X6C968670, "Bugatti Veyron Super Sport
+  AddTextEntry('0X6C968670, "2021 Bugatti Super Sport 300+
+  AddTextEntry('0X6C968670, "Bugatti Chiron Mansory Centuria
+  AddTextEntry('0X6C968670, "Bugatti Centodieci 2020
+  AddTextEntry('0X6C968670, "2021 Bugatti Chiron Pur Sport
+  AddTextEntry('0X6C968670, "Bugatti Bolide Concept Car
+  AddTextEntry('0X6C968670, "2020 Bugatti Bolide
+  AddTextEntry('0X6C968670, "Bugatti Veyron Mansory 
+  AddTextEntry('0X6C968670, "Bugatti La Voiture Noire
+  AddTextEntry('0X6C968670, "Bugatti Chiron Gold Strip
+  AddTextEntry('0X6C968670, "Bugatti Chiron Pur Sport Edition GP 2022 
+  AddTextEntry('0X6C968670, "Bugatti Chiron [Add-on | LODs | Tuning |
+  AddTextEntry('0X6C968670, "Bugatti EB110 Super Sport 1992
+  AddTextEntry('0X6C968670, "2020 Bugatti Chiron Pur Sport
+  AddTextEntry('0X6C968670, "Bugatti Veyron‘Grand Sport L'Or Blanc
+  AddTextEntry('0X6C968670, "Porsche 918 Spyder---MARTINI（Update
+  AddTextEntry('0X6C968670, "Bugatti Atlantic 
+  AddTextEntry('0X6C968670, "Bugatti Veyron Super Sport Handling 
+  AddTextEntry('0X6C968670, "Mercedes-Benz AMG Vision GT
+  AddTextEntry('0X6C968670, "2019 G63 ///AMG
+  AddTextEntry('0X6C968670, "2020 Mercedes-Benz AMG GT Black Series 
+  AddTextEntry('0X6C968670, "2012 Mercedes-Benz C63 AMG Coupe Black Series
+  AddTextEntry('0X6C968670, "2018 Mercedes-Benz S65 AMG
+  AddTextEntry('0X6C968670, "Mercedes-Benz G63 AMG 6x6
+  AddTextEntry('0X6C968670, "Mercedes-Benz E63 AMG
+  AddTextEntry('0X6C968670, "Mercedes-Benz S65 AMG 2012
+  AddTextEntry('0X6C968670, "2015 Mercedes-Maybach S400 X222
+  AddTextEntry('0X6C968670, "2019 Mercedes-Benz S650 Maybach 
+  AddTextEntry('0X6C968670, "2018 Maybach S650 AB
+  AddTextEntry('0X6C968670, "2019 Mercedes-Benz S650 Pullman Maybach
+  AddTextEntry('0X6C968670, "2021 Mercedes-Benz Maybach S680 V12 W223
+  AddTextEntry('0X6C968670, "Rolls-Royce Cullinan Mansory Coastline 2021
+  AddTextEntry('0X6C968670, "2021 Mercedes-Benz Maybach S580 W223
+  AddTextEntry('0X6C968670, "BRABUS G class G800
+  AddTextEntry('0X6C968670, "Mercedes-Benz G500 4x4 Brabus
+  AddTextEntry('0X6C968670, "Volkswagen T6 Kriminaltechnik München [ELS]
+  AddTextEntry('0X6C968670, "BMW 530d F11 Zivil [ELS] 
+  AddTextEntry('0X6C968670, "McLaren Senna 1.0.0 no els 
+  AddTextEntry('0X6C968670, "[NON-ELS] Porsche Cayman Undercover
+  AddTextEntry('0X6C968670, "[NICHT ELS] 2023 Lamborghini Huracan
+  AddTextEntry('0X6C968670, "[ELS] 2016 LAPD TESLA REPLACE
+                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																			
