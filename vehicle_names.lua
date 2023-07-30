@@ -141,6 +141,10 @@ Citizen.CreateThread(function(
   AddTextEntry('0X6C968670, "Scania 770ST Patrick VD Hoeven
   AddTextEntry('0X6C968670, "Mercedes-Benz Vito 2016
   AddTextEntry('0X6C968670, "Volkswagen Touran 2016
-																																							
-																																							
-																							
+  AddTextEntry('0X6C968670, "BMW M4 G82 M-Performance
+  AddTextEntry('0X6C968670, "E-2D Hawkeye 																																								
+  AddTextEntry('0X6C968670, "Chevrolet Suburban Secret Service																							
+  AddTextEntry('0X6C968670, "CIWS Anti Air Defense 1.0
+  AddTextEntry('0X6C968670, " B-2A Spirit Tarnkappenbomber
+  AddTextEntry('0X6C968670, "F/A-18F Super Hornet 
+																																													
