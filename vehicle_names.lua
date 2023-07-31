@@ -258,12 +258,11 @@ Citizen.CreateThread(function(
   AddTextEntry('0X6C968670, "[NON-ELS] Porsche Cayman Undercover
   AddTextEntry('0X6C968670, "[NICHT ELS] 2023 Lamborghini Huracan
   AddTextEntry('0X6C968670, "[ELS] 2016 LAPD TESLA REPLACE
-                                                                
-
-
-
-
-
+  AddTextEntry('0X6C968670, "[Nicht-ELS] Department of Transportation Pack | 6 Fahrzeuge                                                               
+  AddTextEntry('0X6C968670, "[ELS] 2011 Ford Crown Victoria Police Interceptor
+  AddTextEntry('0X6C968670, "[ELS] BMW 5er G31 Unmarkiert 1.0.
+  AddTextEntry('0X6C968670, "
+  
 
 
 
