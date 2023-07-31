@@ -267,33 +267,32 @@ Citizen.CreateThread(function(
   AddTextEntry('0X6C968670, "Vice City Roleplay 2023 LSPD-Flotte (Modelle und Lackierungen)
   AddTextEntry('0X6C968670, "[ELS HYBRID] [ADD-ON] Georgia State Patrol Unit 645
   AddTextEntry('0X6C968670, "[ELS] 2017 Chevy Colorado LAPD Beach Patrol ADD ON/REPLACE
+  AddTextEntry('0X6C968670, "[ELS] 2016 LAPD TESLA REPLACE/ADDON
+  AddTextEntry('0X6C968670, "LGC THOTPATROL 
+  AddTextEntry('0X6C968670, "[NICHT-ELS] [Vorlage] 2018 BMW M5
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] BMW M5 CS
+  AddTextEntry('0X6C968670, "RCMP AS350 Ecureuil Flugzeug
+  AddTextEntry('0X6C968670, "FiveM bereit | 2018 Slicktop Dodge Charger | Nicht-ELS
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] Bugatti Pur Sport
+  AddTextEntry('0X6C968670, "Ford F450 [ADD-ON] [R/B] [B/B]
+  AddTextEntry('0X6C968670, "Range Rover SVR [ELS] [ADDON] [R/B] [B/B]
+  AddTextEntry('0X6C968670, "2016 Dodge Charger [ELS] [ADDON] [R/B] [B/B]
+  AddTextEntry('0X6C968670, "Mercedes AMG GT ELS [ADDON] [R/B] [B/B]
+  AddTextEntry('0X6C968670, "2016 FPIU | [FiveM – Bereit] R&B B&B
   AddTextEntry('0X6C968670, "
   AddTextEntry('0X6C968670, "
   AddTextEntry('0X6C968670, "
   AddTextEntry('0X6C968670, "
   AddTextEntry('0X6C968670, "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
 
 
 
