@@ -261,17 +261,17 @@ Citizen.CreateThread(function(
   AddTextEntry('0X6C968670, "[Nicht-ELS] Department of Transportation Pack | 6 Fahrzeuge                                                               
   AddTextEntry('0X6C968670, "[ELS] 2011 Ford Crown Victoria Police Interceptor
   AddTextEntry('0X6C968670, "[ELS] BMW 5er G31 Unmarkiert 1.0.
+  AddTextEntry('0X6C968670, "Federal Signal Valor Fleet [FiveM Ready] [Nicht-ELS]
+  AddTextEntry('0X6C968670, "KIA Ceed SW II | Deutsche unmarkierte/verdeckte Polizei
+  AddTextEntry('0X6C968670, "BMW G31 der Autobahnpolizei Hessen
+  AddTextEntry('0X6C968670, "Vice City Roleplay 2023 LSPD-Flotte (Modelle und Lackierungen)
+  AddTextEntry('0X6C968670, "[ELS HYBRID] [ADD-ON] Georgia State Patrol Unit 645
+  AddTextEntry('0X6C968670, "[ELS] 2017 Chevy Colorado LAPD Beach Patrol ADD ON/REPLACE
   AddTextEntry('0X6C968670, "
-  
-
-
-
-
-
-
-
-
-
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
+  AddTextEntry('0X6C968670, "
 
 
 
