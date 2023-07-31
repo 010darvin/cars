@@ -279,50 +279,126 @@ Citizen.CreateThread(function(
   AddTextEntry('0X6C968670, "2016 Dodge Charger [ELS] [ADDON] [R/B] [B/B]
   AddTextEntry('0X6C968670, "Mercedes AMG GT ELS [ADDON] [R/B] [B/B]
   AddTextEntry('0X6C968670, "2016 FPIU | [FiveM – Bereit] R&B B&B
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] Brabus Rocket 900
+  AddTextEntry('0X6C968670, "MB Sprinter Deutscher Gefängnistransporter: Berliner Polizei
+  AddTextEntry('0X6C968670, "VW T6 Unmarkierter Polizeitransporter
+  AddTextEntry('0X6C968670, "MB Sprinter 2011 Deutscher Polizeitransporter – Paket
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] Mercedes S-Klasse (S500)
+  AddTextEntry('0X6C968670, "[FiveM Ready] CAT Team 2018 Mustang
+  AddTextEntry('0X6C968670, "[ELS] Volkswagen T6 ÖRK KTW - Von Spezial-Modding
+  AddTextEntry('0X6C968670, "Ford Smax Facelift Bundespolizei 
+  AddTextEntry('0X6C968670, "VW Touareg der WSP Mecklenburg-Vorpommern
+  AddTextEntry('0X6C968670, "LAPD 2013 Tahoe (NICHT-ELS) [32 Sirenen] [3-Stufen-Beleuchtung]
+  AddTextEntry('0X6C968670, "[ELS] Mercedes Sprinter WAS BRK
+  AddTextEntry('0X6C968670, "2022–2023 BMW M8 Undercover Gang Unit
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] Ferrari F40
+  AddTextEntry('0X6C968670, "LAFD Chevy Tahoe [Add-On][ELS]
+  AddTextEntry('0X6C968670, "Chumash Police Dept – Mini Pack 1.0.0  
+  AddTextEntry('0X6C968670, "Upgrade-Paket für die Blaine County Traffic Division
+  AddTextEntry('0X6C968670, "{DLC} Los Santos Police Pack 1.0.0
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] McLaren 720s 1.0.0
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] Range Rover Velar 1.0.0
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] 2021 Tahoe z71 1.0.0
+  AddTextEntry('0X6C968670, "[NICHT-ELS / FiveM Ready] Bugatti Pur Sport 1.0.0
+  AddTextEntry('0X6C968670, "[NICHT ELS] Nicht markiert 2016 FPIU 1.0.0 1.0.0
+  AddTextEntry('0X6C968670, "Mega-Pack-Upgrade der Polizei von Los Santos
+  AddTextEntry('0X6C968670, "2014 Dodge Charger [ELS] [ADDON] [R/B] [B/B] 1.0.0
+  AddTextEntry('0X6C968670, "2021 Chevrolet Camaro [ELS] [ADDON] [R/B] [B/B] 1.0.0
+  AddTextEntry('0X6C968670, "Bentley Continental GT Speed ​​[ELS] [ADDON] [R/B] [B/B] 1.0.0																																																																																											
+  AddTextEntry('0X6C968670, "2021 Chevrolet Tahoe [ELS] [ADDON] [R/B] [B/B] 1.0.0
+  AddTextEntry('0X6C968670, "2014 Chevrolet Tahoe [ELS] [ADDON] [R/B] [B/B] 1.0.0
+  AddTextEntry('0X6C968670, "2022 Ford Mach E [ELS] [ADDON] [R/B] [B/B] 1.0.0
+  AddTextEntry('0X6C968670, "Dodge Durango Pursuit 2018 l Carabineros de Chile ELS 3.0
+  AddTextEntry('0X6C968670, "2022 Porsche Cayenne GT [Add-On / FiveM] 1.2.0
+  AddTextEntry('0X6C968670, "Sheriff Traffic Division Pack
+  AddTextEntry('0X6C968670, "Blaine County Sheriff Mega Pack (Ergänzung/Ersatz)
+  AddTextEntry('0X6C968670, "Federal Signal Valor Pack 2022 [ELS] [ADD-ON] (VERALTET) 1.0.0
+  AddTextEntry('0X6C968670, "21-22 CHP/SAHP Tahoe (Lore Friendly/CHP)
+  AddTextEntry('0X6C968670, "Nicht gekennzeichneter ACT Police Road Policing Audi Avant [NON-ELS] FiveM Ready 2.0.0
+  AddTextEntry('0X6C968670, "[ELS] LSCSO Mini Pack 1.0.0
+  AddTextEntry('0X6C968670, "[Nicht ELS, Mods K9, FIVEM Ready] FedSig Integrity Pack 1.0.0
+  AddTextEntry('0X6C968670, "[NICHT ELS, FIVEM Ready] Mini Fire/EMS Pack 1.0.0
+  AddTextEntry('0X6C968670, "[Nicht ELS] Tow Services Pack (Pritsche und Abschleppwagen) 1.0.0
+  AddTextEntry('0X6C968670, "[Nicht ELS] „Hero“ Security Car Pack 1.0.0
+  AddTextEntry('0X6C968670, "[ELS] Los Santos PD Mega-Pack (LAPD) 220901-1106
+  AddTextEntry('0X6C968670, "[ELS] [Add-on] Blaine County Sheriffs Office Pack [4k] 1.0.2
+  AddTextEntry('0X6C968670, "[N-ELS][FiveM Ready] 2018 Vollständig markierter Dodge Charger 1.0.0
+  AddTextEntry('0X6C968670, "[ELS] [Add-ON] Skoda Superb 2016 LVA Zivilstreife 1.1
+  AddTextEntry('0X6C968670, "2022 BMW M5 Wettbewerbssport | [Add-On / FiveM] 1.2
+  AddTextEntry('0X6C968670, "Fahrzeugpaket der Massachusetts State Police [ELS] 1.0.1
+  AddTextEntry('0X6C968670, "Ich fertige individuelle FiveM-Autos Ihrer Wahl mit animierter Lackierung
+  AddTextEntry('0X6C968670, "Ich repariere Ihre kaputten FiveM Custom Cars																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich gebe dir das FiveM ready Premium-Autopaket																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich rüste Ihre Add-On-Autos zu FiveM-Autos mit individueller Lackierung um																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich gebe Ihnen 30 Autos FiveM bereit und 3 Autos glühend																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde Premium-Fahrzeuge für FiveM-Server konvertieren und bereitstellen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde ein individuelles FiveM-Polizeifahrzeugpaket verkaufen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich gebe Ihnen erstklassige animierte Autos für den FiveM-Server																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich stelle ein Car Pack für deinen FiveM-Server zur Verfügung																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde ein FiveM-Autopaket mit über 330 Autos erstellen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich optimiere Ihr FiveM Car Pack																																																																																																																																																																																																																															
+  AddTextEntry('0X6C968670, "Ich werde kundenspezifische Polizei-, Ems-Lackierungen für jedes FiveM-Fahrzeug entwerfen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich erstelle jedes individuelle Auto für Ihren FiveM-GTA-Server																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde Ihre übergroßen FiveM-Autos vollständig optimieren																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde Autos und Kleidung für Ihren FiveM-Server erstellen und anpassen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde Ihrem FiveM-Server benutzerdefinierte Fahrzeuge hinzufügen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich gebe dir 330 Fahrzeuge für FiveM																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde ein vollständig benutzerdefiniertes Autopaket erstellen, Polizeiautos für gta FiveM, Sirene, Rollenspiel und Qcbore																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde kundenspezifische Lackierungen von Polizei, Ems, Autos von FiveM entwerfen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde für Sie die Lackierung eines LCPDFR-Polizeiautos, MLO und einer Karte für FiveM anpassen und neu gestalten																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde kundenspezifische Lackierungen von Polizei, Ems, Autos von FiveM entwerfen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich entwickle Ihre qbcore FiveM-Fahrzeugskripte und Handlingdateien																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde ein FiveM-fähiges Premium-Autopaket bereitstellen 300																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde für Sie einen qbcore FiveM-Server erstellen und benutzerdefinierte E-Ups und Autos bereitstellen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich biete Ihnen eine Sammlung von FiveM-Fahrzeugen mit realistischem Fahrverhalten an																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde maßgefertigte Autos für FiveM bereitstellen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Ich werde maßgefertigte Autos für FiveM bereitstellen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Polizeifahrzeugpaket V4																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Fahrzeugpaket der North Carolina Highway Patrol																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Flotte der New Carolina Police Department [26 Fahrzeuge]																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Code 3 Mega Pack LSPD-Lackierungen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Valor Pack – Hardtops & Slicktops																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "2021 Hochgeschwindigkeits-Strafverfolgungseinheiten																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Polizeihubschrauber / Chopper XBR																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "LAPD FiveM Polizeiauto-Paket																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Legacy-Paket v2 von RedSaint
+  AddTextEntry('0X6C968670, "Ferrari F12 (FBI/Cops)  																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "FiveM Polizeiauto Pack: 12 Fahrzeuge | FiveM Ready | Optimiert! | Vorlagen | Realistische Handhabungen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "FiveM 50 Einsatzfahrzeuge Pack | FiveM Ready | Optimiert! | Hohe Qualität																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "FiveM 35 Einsatzfahrzeuge Pack | FiveM Ready | Optimiert! | Hohe Qualität | Realistische Handhabungen																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "GTA V Sheriff Polizei Pack | 15 Fahrzeuge | FiveM Ready | Optimiert! | Realistische Handhabung | Hohe Qualität | Grand Theft Auto 5																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "ELS LSPD-Paket | 5 Fahrzeuge | Optimiert																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "ELS Feuer- und Rettungspaket | 7 Fahrzeuge | Optimiert																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "ELS Polizeiauto-Paket | 15 Fahrzeuge | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Polizei-Verfolgungswagen-Paket | 10 Fahrzeuge | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Mercedes AMG GT Mansaug																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "1000 Fahrzeug + Radpaket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "500 Fahrzeug + Sound + Radpaket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "400-Auto-Paket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "350-Auto-Paket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "250 Autopaket V2 | Optimiert! 																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "250-Auto-Paket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "130 Fahrzeug + Sound + Radpaket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "90 USA-Autopaket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "„Fast and Furious“-Autopaket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "5 Rolls-Royce-Autopaket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "11 hochwertige Autos | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "10 Spielzeugauto-Paket | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "EMS AMR-Paket | 13 Fahrzeuge | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Notdienstpaket: 35 FAHRZEUGE | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Taxi-Paket mit 5 Autos | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Polizei-Fahrradpaket | 6 Fahrräder | Optimiert!																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "Custom 400 Felgenpaket | FiveM bereit																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
+  AddTextEntry('0X6C968670, "																																																																																																																																																																																																																																
   AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-  AddTextEntry('0X6C968670, "
-
-
-
-
-
-
-
-
-
-
-
-																																																																																											
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-																																																			
