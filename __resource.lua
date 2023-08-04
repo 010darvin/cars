@@ -98,12 +98,12 @@ data_fire 'VEHICLE_VERIATTON_FILE  '2014 Rolls-Royce Wraith
 data_fire 'VEHICLE_VERIATTON_FILE  'Rolls Royce Cullinan Black
 data_fire 'VEHICLE_VERIATTON_FILE  '2014 rolls Royce Phantom
 data_fire 'VEHICLE_VERIATTON_FILE  'Rolls-Royce Cullinan Mansory 2021 
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  'USS Forrestal
+data_fire 'VEHICLE_VERIATTON_FILE  'Urchin 2 Bulk Carrier
+data_fire 'VEHICLE_VERIATTON_FILE  'Explorer Yacht
+data_fire 'VEHICLE_VERIATTON_FILE  'Bateau Garde-Frontiere Suisse
+data_fire 'VEHICLE_VERIATTON_FILE  'USCG Legend-Class Cutter Bertholf
+data_fire 'VEHICLE_VERIATTON_FILE  'F-15 Silent Eagle
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
