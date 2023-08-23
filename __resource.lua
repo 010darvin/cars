@@ -107,16 +107,16 @@ data_fire 'VEHICLE_VERIATTON_FILE  'F-15 Silent Eagle
 data_fire 'VEHICLE_VERIATTON_FILE  'McLaren 650S Coupé
 data_fire 'VEHICLE_VERIATTON_FILE  'GT-R R35 2017 liberti 
 data_fire 'VEHICLE_VERIATTON_FILE  '2022 Alpine A522
-data_fire 'VEHICLE_VERIATTON_FILE  'ZL1 Camaro Unmarked 
-data_fire 'VEHICLE_VERIATTON_FILE  'E63 Unmarked
+data_fire 'VEHICLE_VERIATTON_FILE  'ZL1 Camaro Unmarked  PD
+data_fire 'VEHICLE_VERIATTON_FILE  'E63 Unmarked PD
 data_fire 'VEHICLE_VERIATTON_FILE  '2015 Subaru WRX STI PD
-data_fire 'VEHICLE_VERIATTON_FILE  '2021 Ford F150 Limited PD
-data_fire 'VEHICLE_VERIATTON_FILE  '2020 Ford Explorer PD 
-data_fire 'VEHICLE_VERIATTON_FILE  '2021 Chevy Tahoe PD 
-data_fire 'VEHICLE_VERIATTON_FILE  '2021 Toyota RAV4 PD
-data_fire 'VEHICLE_VERIATTON_FILE  '2012 Ford Expedition PD
-data_fire 'VEHICLE_VERIATTON_FILE  '2016 Dodge Ram PD
-data_fire 'VEHICLE_VERIATTON_FILE  '2011 Crown Victoria PD
+data_fire 'VEHICLE_VERIATTON_FILE  '2021 Ford F150 Limited Unmarked PD
+data_fire 'VEHICLE_VERIATTON_FILE  '2020 Ford Explorer Unmarked PD 
+data_fire 'VEHICLE_VERIATTON_FILE  '2021 Chevy Tahoe Unmarked PD 
+data_fire 'VEHICLE_VERIATTON_FILE  '2021 Toyota RAV4 Unmarked PD
+data_fire 'VEHICLE_VERIATTON_FILE  '2012 Ford Expedition Unmarked PD
+data_fire 'VEHICLE_VERIATTON_FILE  '2016 Dodge Ram Unmarked PD
+data_fire 'VEHICLE_VERIATTON_FILE  '2011 Crown Victoria Unmarked PD
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
