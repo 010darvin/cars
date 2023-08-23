@@ -104,9 +104,9 @@ data_fire 'VEHICLE_VERIATTON_FILE  'Explorer Yacht
 data_fire 'VEHICLE_VERIATTON_FILE  'Bateau Garde-Frontiere Suisse
 data_fire 'VEHICLE_VERIATTON_FILE  'USCG Legend-Class Cutter Bertholf
 data_fire 'VEHICLE_VERIATTON_FILE  'F-15 Silent Eagle
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  'McLaren 650S Coupé
+data_fire 'VEHICLE_VERIATTON_FILE  'GT-R R35 2017 liberti 
+data_fire 'VEHICLE_VERIATTON_FILE  '2022 Alpine A522
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
