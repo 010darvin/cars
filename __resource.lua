@@ -129,8 +129,8 @@ data_fire 'VEHICLE_VERIATTON_FILE  '2018 bmw m5 f90
 data_fire 'VEHICLE_VERIATTON_FILE  '2018 bmw_pd 
 data_fire 'VEHICLE_VERIATTON_FILE  '2016 xploer unmarkt 
 data_fire 'VEHICLE_VERIATTON_FILE  '"2020 Ferrari SF90 Stradale
+data_fire 'VEHICLE_VERIATTON_FILE  '2019 Mercedes-Benz S650 Maybach 
 data_fire 'VEHICLE_VERIATTON_FILE  '
-
 
 
 client_script {
