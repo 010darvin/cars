@@ -128,7 +128,7 @@ data_fire 'VEHICLE_VERIATTON_FILE  'BMW M4 CS 2018
 data_fire 'VEHICLE_VERIATTON_FILE  '2018 bmw m5 f90 
 data_fire 'VEHICLE_VERIATTON_FILE  '2018 bmw_pd 
 data_fire 'VEHICLE_VERIATTON_FILE  '2016 xploer unmarkt 
-data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  '"2020 Ferrari SF90 Stradale
 data_fire 'VEHICLE_VERIATTON_FILE  '
 
 
