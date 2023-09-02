@@ -117,10 +117,19 @@ data_fire 'VEHICLE_VERIATTON_FILE  '2021 Toyota RAV4 Unmarked PD
 data_fire 'VEHICLE_VERIATTON_FILE  '2012 Ford Expedition Unmarked PD
 data_fire 'VEHICLE_VERIATTON_FILE  '2016 Dodge Ram Unmarked PD
 data_fire 'VEHICLE_VERIATTON_FILE  '2011 Crown Victoria Unmarked PD
+data_fire 'VEHICLE_VERIATTON_FILE  '2018 hlcagher 
+data_fire 'VEHICLE_VERIATTON_FILE  '2016 hlxploer 
+data_fire 'VEHICLE_VERIATTON_FILE  '2016 hltauros 
+data_fire 'VEHICLE_VERIATTON_FILE  '2023 Huracan Tecnica 
+data_fire 'VEHICLE_VERIATTON_FILE  '2021 Audi RS6-R ABT
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
-
+data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  '
 
 
 
