@@ -122,8 +122,8 @@ data_fire 'VEHICLE_VERIATTON_FILE  '2016 hlxploer
 data_fire 'VEHICLE_VERIATTON_FILE  '2016 hltauros 
 data_fire 'VEHICLE_VERIATTON_FILE  '2023 Huracan Tecnica 
 data_fire 'VEHICLE_VERIATTON_FILE  '2021 Audi RS6-R ABT
-data_fire 'VEHICLE_VERIATTON_FILE  '
-data_fire 'VEHICLE_VERIATTON_FILE  '
+data_fire 'VEHICLE_VERIATTON_FILE  '2016 BMW M4 G82 M-Performance
+data_fire 'VEHICLE_VERIATTON_FILE  '2010 Ferrari 458 Italia 
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
 data_fire 'VEHICLE_VERIATTON_FILE  '
