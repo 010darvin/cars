@@ -131,7 +131,7 @@ data_fire 'VEHICLE_VERIATTON_FILE  '2016 xploer unmarkt
 data_fire 'VEHICLE_VERIATTON_FILE  '"2020 Ferrari SF90 Stradale
 data_fire 'VEHICLE_VERIATTON_FILE  '2019 Mercedes-Benz S650 Maybach 
 data_fire 'VEHICLE_VERIATTON_FILE  '"Ferrari Enzo & Gemballa MIG-U1
-
+data_fire 'VEHICLE_VERIATTON_FILE  '"2019 Mercedes-Benz S650 Pullman Maybach
 
 client_script {
     'vehicle_names.lua'
