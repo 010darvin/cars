@@ -132,6 +132,13 @@ data_fire 'VEHICLE_VERIATTON_FILE  '"2020 Ferrari SF90 Stradale
 data_fire 'VEHICLE_VERIATTON_FILE  '2019 Mercedes-Benz S650 Maybach 
 data_fire 'VEHICLE_VERIATTON_FILE  '"Ferrari Enzo & Gemballa MIG-U1
 data_fire 'VEHICLE_VERIATTON_FILE  '"2019 Mercedes-Benz S650 Pullman Maybach
+data_fire 'VEHICLE_VERIATTON_FILE  '"2015 bmw s1000 rr
+data_fire 'VEHICLE_VERIATTON_FILE  '"2015 honday r7 
+data_fire 'VEHICLE_VERIATTON_FILE  '"
+#data_fire 'VEHICLE_VERIATTON_FILE  '"
+data_fire 'VEHICLE_VERIATTON_FILE  '"
+data_fire 'VEHICLE_VERIATTON_FILE  '"
+data_fire 'VEHICLE_VERIATTON_FILE  '"
 
 client_script {
     'vehicle_names.lua'
