@@ -134,11 +134,11 @@ data_fire 'VEHICLE_VERIATTON_FILE  '"Ferrari Enzo & Gemballa MIG-U1
 data_fire 'VEHICLE_VERIATTON_FILE  '"2019 Mercedes-Benz S650 Pullman Maybach
 data_fire 'VEHICLE_VERIATTON_FILE  '"2015 bmw s1000 rr
 data_fire 'VEHICLE_VERIATTON_FILE  '"2015 honday r7 
-data_fire 'VEHICLE_VERIATTON_FILE  '"
-#data_fire 'VEHICLE_VERIATTON_FILE  '"
-data_fire 'VEHICLE_VERIATTON_FILE  '"
-data_fire 'VEHICLE_VERIATTON_FILE  '"
-data_fire 'VEHICLE_VERIATTON_FILE  '"
+data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW X5 
+#data_fire 'VEHICLE_VERIATTON_FILE '"2018 BMW X6M 
+data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M8 CS
+data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M5 Combi
+data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M5 Competition
 
 client_script {
     'vehicle_names.lua'
