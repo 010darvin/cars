@@ -152,7 +152,14 @@ start data_fire 'VEHICLE_VERIATTON_FILE  '"MB Vito 2019 - NEF Krankenwagen - DRK
 start data_fire 'VEHICLE_VERIATTON_FILE  '"[ELS] MAN TGL S-RTW Hamburg Fahrtec 1.0.0
 start data_fire 'VEHICLE_VERIATTON_FILE  '"Volkswagen T6 Kriminaltechnik München [ELS] [Add-on | Ersetzen] [FiveM] 1.0.0
 start data_fire 'VEHICLE_VERIATTON_FILE  '"BMW 530d F11 Zivil [ELS] [Add-on / Ersetzen | FiveM-Ready] 2.0.0
-
+start data_fire 'VEHICLE_VERIATTON_FILE  '"[ELS] Volkswagen T6 ÖRK KTW - Von Spezial-Modding 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
 
 [ 
 client_script {
