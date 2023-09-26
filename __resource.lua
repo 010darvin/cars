@@ -139,7 +139,9 @@ start data_fire 'VEHICLE_VERIATTON_FILE '"2018 BMW X6M
 start data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M8 CS
 start data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M5 Combi
 start data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M5 Competition
-
+start data_fire 'VEHICLE_VERIATTON_FILE  '"VOLKSWAGEN PASSAT ASFINAG VERKEHRSLEITER FIKTIV
+start data_fire 'VEHICLE_VERIATTON_FILE  '"
+[ 
 client_script {
     'vehicle_names.lua'
 }
