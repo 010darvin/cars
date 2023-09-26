@@ -140,7 +140,20 @@ start data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M8 CS
 start data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M5 Combi
 start data_fire 'VEHICLE_VERIATTON_FILE  '"2018 BMW M5 Competition
 start data_fire 'VEHICLE_VERIATTON_FILE  '"VOLKSWAGEN PASSAT ASFINAG VERKEHRSLEITER FIKTIV
-start data_fire 'VEHICLE_VERIATTON_FILE  '"
+start data_fire 'VEHICLE_VERIATTON_FILE  '"VOLKSWAGEN TOURAN 2020 BUNDESPOLIZEI ÖSTERREICH
+start data_fire 'VEHICLE_VERIATTON_FILE  '"VOLKSWAGEN TOUAREG ZIVILPOLIZEI ÖSTERREICH
+start data_fire 'VEHICLE_VERIATTON_FILE  ''VOLKSWAGEN T6 BUNDESPOLIZEI ÖSTERREICH
+start data_fire 'VEHICLE_VERIATTON_FILE  '"VOLKSWAGEN TOURAN BUNDESPOLIZEI ÖSTERREICH
+start data_fire 'VEHICLE_VERIATTON_FILE  '"[ELS] Mercedes Sprinter 4x4 ELW Blaichach 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"NEF VW T6 Feuerwehr Bochum | LPM-Modding 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"Gepanzertes Polizeifahrzeug – Sonderwagen BKA – Spezialfahrzeug der Polizei 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"NEF BMW X5 2020 RK Westerwald 33/82-01 | LPM-Modding 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"MB Vito 2019 - NEF Krankenwagen - DRK Deutschland 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"[ELS] MAN TGL S-RTW Hamburg Fahrtec 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"Volkswagen T6 Kriminaltechnik München [ELS] [Add-on | Ersetzen] [FiveM] 1.0.0
+start data_fire 'VEHICLE_VERIATTON_FILE  '"BMW 530d F11 Zivil [ELS] [Add-on / Ersetzen | FiveM-Ready] 2.0.0
+
+
 [ 
 client_script {
     'vehicle_names.lua'
