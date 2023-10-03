@@ -56,7 +56,7 @@ start data_fire 'VEHICLE_VERIATTON_FILE  '2018 Mercedes-Benz S65 AMG
 start data_fire 'VEHICLE_VERIATTON_FILE  '2012 Mercedes-Benz C63 AMG Coupe Black Series
 start data_fire 'VEHICLE_VERIATTON_FILE  '2021 Mercedes-Benz AMG S63 Coupe 4MATIC+
 start data_fire 'VEHICLE_VERIATTON_FILE  'Mercedes-Benz G63 AMG 6x6
-start data_fire 'VEHICLE_VERIATTON_FILE  'Mercedes-Benz E63 AMG
+start data_fire 'VEHICLE_VERIATTON_FILE  'Mercedes-Benz E63 AMG_henlikm 150 kmh
 start data_fire 'VEHICLE_VERIATTON_FILE  'Mercedes Benz S65 AMG W222 2014
 start data_fire 'VEHICLE_VERIATTON_FILE  '2021 BMW 5er 530D
 start data_fire 'VEHICLE_VERIATTON_FILE  'BMW 745Le x Drive
